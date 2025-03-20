@@ -1,0 +1,109 @@
+
+
+
+# data type in python
+# numeric type
+# 1. int
+# 2. float
+# 3. complex
+
+# text type
+
+
+
+# # assignment no 1
+# # bonus = 15000
+# # percentage = 22%
+
+# a = int(input("enter your bonus"))
+# b = int(input("enter your percentage"))
+# p = b/100
+# new_bonus = a*p
+# print(new_bonus)
+ 
+# #  assignment no 1 
+
+# a = int(input("enter your bonus"))
+# b = int(input("enter your percentage"))
+# c = int(input("enter your leave days"))
+# f = b/100
+# new_bonus = a*f-c
+
+
+# 9 multiline string 
+
+# a = """"hello word how are you """
+# print(a)
+
+# 2nd assignment replace methode
+
+# a = "jarawala faislabad lahore karachi multan "
+
+# f = a.replace("J","j").replace("F" ,"f").replace("L", "l").replace("K" ,"k").replace("M" ,"m")
+# print(f)
+
+# 15 lists
+# ls = ["lahore", "karachi", "faislabad"]
+# ls = []
+# print(type(ls),ls)
+# print(type(ls),ls)
+# reverse methode 
+# ls = ["lahore", "karachi", "faislabad"]
+# print(ls[2:])
+
+# ls[1:2] = "multan"
+# print(ls)
+
+# ls[0:1] = ["queta"]
+# ls[1:2] = ["peshawar"]
+# ls[2:3] = ["america"]
+# print(ls)
+
+
+# 16  for loops
+# ls = ["apple","banana","mango"]
+# print(ls)
+# for item in ls:
+#     print(item)
+
+# practice of append
+# ls = ["qasur","chuburji","islamia"] 
+# ls.append("nagar")
+# print(ls)
+
+# assignment no 3
+# ls = ["lahore", "faislabad","jarawala"]
+# ls[0:1]= ['Lahore']
+# print(ls) 
+# ls[1:2] = ["Faislabad"]
+# print(ls)
+# ls[2:3]= ["Jarawala"]
+# print(ls)
+
+# assignment no 4
+
+ls = ["lahore", "faislabad","jarawala"]
+lp =[]
+for x in ls:
+    p = x[0:1].upper() +x[1:-1].lower() +x[-1:1].upper()
+    print(p)
+
+# assignment no 5
+
+
+# assignment no 6
+
+# ls = [ "lahore", "karachi","multan"]
+# lp = []
+# for city in ls:
+#     p = city[0:1].upper() + city[1:-1].lower() + city[-1:].upper()
+#     lp.append(p)
+#     print(p)
+
+# assignment no 7
+ls = ["london", "itly","usa"]
+lp = []
+for city in ls :
+    p = city[0:1].upper() + city[1:2].lower() + city[-2:].lower()
+lp.append(p)
+print(p)

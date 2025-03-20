@@ -1,0 +1,54 @@
+# print("hello wprd")
+# print(34)
+
+print(True)
+print(type("hello word 56"))
+
+# 2 legal name of variables
+# name = "khurram"
+# firstName = "khurram" (camel case )
+# FirstName = "ali" (pascal case)
+# first_name = "ali" snake case
+# nameist = "alia" number case:
+
+# 3 types of variables
+# print(type(23))
+# var1 = 5 
+# print("var_1")
+# print(type(True))
+# print(type(True))
+# print(type("34"))
+
+# 4 data types in python
+# a = "string"
+
+# 1 int
+# age = 32 
+# print(type(age))
+# 2 float 
+# height = 5.7
+# print(type(height))
+# 3 string
+# name = "eman"
+# print(type(name))
+# 4 boolean 
+# is_boy = True
+# (type(is_boy))
+
+# f = ["hoor","eman","kinza"]
+# print(type(f))
+# g = ("hello","emanii","!")
+# print(type(g))
+
+# k =g"hello world"
+j = {"hi": "many","age":23}
+print(type(j))
+
+
+# 5 math operation
+d = 6 
+g = 7
+sum =  d+g 
+print(sum,type(sum))
+
+

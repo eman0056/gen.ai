@@ -1,0 +1,24 @@
+# 2nd assignment replace methode
+
+# a = "jarawala faislabad lahore karachi multan "
+
+# f = a.replace("J","j").replace("F" ,"f").replace("L", "l").replace("K" ,"k").replace("M" ,"m")
+# print(f)
+
+# assigment
+#  a = int(input("enter your bonus"))
+# b = int(input("enter your percentage"))
+# f = b/100
+# new_bonus = a*f
+
+
+# assignment no 4
+# a = ["itly", "america", "german", "france","uk","china", "berzil","caneda", "dubai","qwait","iran"]
+
+# lp = []
+# for y in a :
+#     b = y[0:1].upper() + y[1:7].lower() + y[-1:].upper()
+#     lp.append(b)
+#     print(b)
+# reverse
+# print(a[::-1])

@@ -1,0 +1,20 @@
+# assignment no 3
+# ls = ["lahore", "faislabad","jarawala"]
+# ls[0:1]= ['Lahore']
+# print(ls) 
+# ls[1:2] = ["Faislabad"]
+# print(ls)
+# ls[2:3]= ["Jarawala"]
+# print(ls)
+
+# assignment no 4
+
+# ls = ["lahore", "faislabad","jarawala"]
+# lp =[]
+# for x in ls:
+#     p = x[0:1].upper() +x[1:-1].lower() +x[-1:1].upper()
+#     print(p)
+
+ ls = [ "lahore", "karachi","multan"]
+# lp = []
+# for x in ls:
