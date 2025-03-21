@@ -15,6 +15,15 @@
 #     p = x[0:1].upper() +x[1:-1].lower() +x[-1:1].upper()
 #     print(p)
 
- ls = [ "lahore", "karachi","multan"]
+#  ls = [ "lahore", "karachi","multan"]
 # lp = []
 # for x in ls:
+
+# assignment no 4
+# a = ["itly", "america", "german", "france","uk","china", "berzil","caneda", "dubai","qwait","iran"]
+
+# lp = []
+# for y in a :
+#     b = y[0:1].upper() + y[1:].lower() + y[-1:].upper()
+#     lp.insert(0,b)
+#     print(b)

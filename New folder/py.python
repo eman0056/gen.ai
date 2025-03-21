@@ -107,3 +107,6 @@ for city in ls :
     p = city[0:1].upper() + city[1:2].lower() + city[-2:].lower()
 lp.append(p)
 print(p)
+
+
+

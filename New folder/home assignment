@@ -17,8 +17,15 @@
 
 # lp = []
 # for y in a :
-#     b = y[0:1].upper() + y[1:7].lower() + y[-1:].upper()
-#     lp.append(b)
+#     b = y[0:1].upper() + y[1:].lower() + y[-1:].upper()
+#     lp.insert(0,lp)
 #     print(b)
-# reverse
-# print(a[::-1])
+# assignment
+ 
+a =["itly" "iraq" "berzail"]
+lp = []
+for s in a :
+   e = s[0:1].upper() + s[1:2].lower() + s[-1:].lower()
+   lp.append(e)
+   print(e)
+   print(lp)

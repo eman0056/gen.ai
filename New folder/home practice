@@ -1,8 +1,8 @@
 # print("hello wprd")
 # print(34)
 
-print(True)
-print(type("hello word 56"))
+# print(True)
+# print(type("hello word 56"))
 
 # 2 legal name of variables
 # name = "khurram"
@@ -41,14 +41,18 @@ print(type("hello word 56"))
 # print(type(g))
 
 # k =g"hello world"
-j = {"hi": "many","age":23}
-print(type(j))
+# j = {"hi": "many","age":23}
+# print(type(j))
 
 
 # 5 math operation
-d = 6 
-g = 7
-sum =  d+g 
-print(sum,type(sum))
+# d = 6 
+# g = 7
+# sum =  "d+g "
+# print(sum,type(sum))
 
 
+# print(a**b)
+# input type 
+a = input("enter your name":)
+print(a,type(a))
