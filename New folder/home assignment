@@ -22,10 +22,7 @@
 #     print(b)
 # assignment
  
-a =["itly" "iraq" "berzail"]
-lp = []
+a =["itly", "iraq", "berzail"]
 for s in a :
-   e = s[0:1].upper() + s[1:2].lower() + s[-1:].lower()
-   lp.append(e)
+   e=s[:-2].lower()+ s[-2:].upper()
    print(e)
-   print(lp)

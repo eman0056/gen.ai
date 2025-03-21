@@ -27,3 +27,25 @@
 #     b = y[0:1].upper() + y[1:].lower() + y[-1:].upper()
 #     lp.insert(0,b)
 #     print(b)
+
+# assignment no 5 
+# tble of 2 
+
+# table of 2 using in python 
+
+
+ 
+# a= int(input('enter ur value'))
+# num = 2
+# for i in range (1,11):
+#     print (num,'*', i, '=', num*i)
+
+# factorial of 120
+# b = int(input('enter your value'))
+# num = 1
+# for i in a range (1,n+1)
+
+count = 0
+for i in range(1,101):
+    count += str(i).count("3")
+print(count)
